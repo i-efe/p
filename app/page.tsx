@@ -10,7 +10,7 @@ export default function Page() {
         {`hi, EFE here.
         `}
         I'm Passionate about the intersection of artificial intelligence and neuroscience.
-        PS: Low-key <a href="https://www.coursera.org/account/accomplishments/specialization/JAC75YNQH5TX" target="_blank" underline>DeepLearning.AI</a> and <a href="https://www.coursera.org/account/accomplishments/professional-cert/FF2K7G6ESKW9" target="_blank" underline>TensorFlow</a> Certified/Specialized.
+        PS: Low-key <a href="https://www.coursera.org/account/accomplishments/specialization/JAC75YNQH5TX">DeepLearning.AI</a> and <a href="https://www.coursera.org/account/accomplishments/professional-cert/FF2K7G6ESKW9" target="_blank">TensorFlow</a> Certified.
 
       </p>
       <div className="my-8">
