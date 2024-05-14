@@ -12,14 +12,14 @@ export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
     default: 'EFETOMEH',
-    template: '%s | Next.js Portfolio Starter',
+    template: '%s | EFETOMEHs Portfolio Starter',
   },
-  description: 'This is my portfolio.',
+  description: 'Efetomehs portfolio.',
   openGraph: {
     title: 'My Portfolio',
     description: 'This is my portfolio.',
     url: baseUrl,
-    siteName: 'My Portfolio',
+    siteName: 'senpai efetomeh',
     locale: 'en_US',
     type: 'website',
   },
