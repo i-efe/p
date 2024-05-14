@@ -7,8 +7,8 @@ export default function Page() {
         personal
       </h1>
       <p className="mb-4">
-        {`hi, EFE here
-        Passionate about the intersection of artificial intelligence and neuroscience.
+        {`hi, EFE here.
+        I'm Passionate about the intersection of artificial intelligence and neuroscience.
         `}
       </p>
       <div className="my-8">
