@@ -7,7 +7,7 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  'https://github.com/senpaiefetomeh?tab=projects': {
+  'https://github.com/iamefetomeh?tab=projects': {
     name: 'projects',
   },
 }
