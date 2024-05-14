@@ -8,8 +8,9 @@ export default function Page() {
       </h1>
       <p className="mb-4">
         {`hi, EFE here.
-        I'm Passionate about the intersection of artificial intelligence and neuroscience.
         `}
+        I'm Passionate about the intersection of artificial intelligence and neuroscience.
+        PS: low-key <b>DeepLearning</b> and <b>TensorFlow</b> Certified. 
       </p>
       <div className="my-8">
         <BlogPosts />
