@@ -9,7 +9,7 @@ export default function Page() {
       <p className="mb-4">
         {`Passionate about the intersection of artificial intelligence and neuroscience.
         `}
-        PS: Low-key <a href="https://www.coursera.org/account/accomplishments/specialization/JAC75YNQH5TX">DeepLearning.AI</a> and <a href="https://www.coursera.org/account/accomplishments/professional-cert/FF2K7G6ESKW9" target="_blank">TensorFlow</a> Certified.
+        PS: Low-key <a href="https://www.coursera.org/account/accomplishments/specialization/JAC75YNQH5TX"><u>DeepLearning.AI</u></a> and <a href="https://www.coursera.org/account/accomplishments/professional-cert/FF2K7G6ESKW9" target="_blank"><u>TensorFlow</u></a> Certified.
 
       </p>
       <div className="my-8">
