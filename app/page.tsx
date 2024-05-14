@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        hi, EFETOMEH here
+        hi ツ, EFETOMEH here
       </h1>
       <p className="mb-4">
         {`passionate about the intersection of artificial intelligence and neuroscience.
