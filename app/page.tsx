@@ -7,12 +7,11 @@ export default function Page() {
         hi, EFETOMEH here
       </h1>
       <p className="mb-4">
-        {`Passionate about the intersection of artificial intelligence and neuroscience.
+        {`passionate about the intersection of artificial intelligence and neuroscience.
         `}
       </p>
       <p>
-        PS: Low-key <a href="https://www.coursera.org/account/accomplishments/specialization/JAC75YNQH5TX"><u>DeepLearning.AI</u></a> 
-        and <a href="https://www.coursera.org/account/accomplishments/professional-cert/FF2K7G6ESKW9" target="_blank"><u>TensorFlow</u></a> Certified.
+        ps: low-key <a href="https://www.coursera.org/account/accomplishments/specialization/JAC75YNQH5TX"><u>deeplearning.ai</u></a> and <a href="https://www.coursera.org/account/accomplishments/professional-cert/FF2K7G6ESKW9" target="_blank"><u>tensorflow</u></a> certified.
       </p>
       <div className="my-8">
         <BlogPosts />
