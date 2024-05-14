@@ -10,7 +10,7 @@ export default function Page() {
         {`hi, EFE here.
         `}
         I'm Passionate about the intersection of artificial intelligence and neuroscience.
-        PS: low-key <b>DeepLearning</b> and <b>TensorFlow</b> Certified. 
+        PS: low-key <u>DeepLearning</u> and <u>TensorFlow</u> Certified. 
       </p>
       <div className="my-8">
         <BlogPosts />
