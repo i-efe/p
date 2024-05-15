@@ -7,9 +7,6 @@ export default function NotFound() {
       <p className="mb-4">
        The page you are looking for does not exist yet.
       </p>
-      <p>
-        I'm probably working on it, but lets go home. 
-      </p>
     </section>
   )
 }
