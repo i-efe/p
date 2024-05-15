@@ -7,7 +7,7 @@ export default function Page() {
         hi ツ, EFETOMEH here
       </h1>
       <p className="mb-4">
-        {`passionate about the intersection of artificial intelligence and neuroscience.
+        {`I'm passionate about the intersection of artificial intelligence and neuroscience.
         `}
       </p>
       <p>
