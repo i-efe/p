@@ -1,4 +1,4 @@
-import { researchtexts } from 'app/components/posts' 
+import { BlogPosts } from 'app/components/posts' 
 
 export default function Page() {
   return (
@@ -14,7 +14,7 @@ export default function Page() {
         ps: I am <a href="https://www.coursera.org/account/accomplishments/specialization/JAC75YNQH5TX"><u>deeplearning.ai</u></a> and <a href="https://www.coursera.org/account/accomplishments/professional-cert/FF2K7G6ESKW9" target="_blank"><u>tensorflow</u></a> certified.
       </p>
       <div className="my-8">
-        <researchtexts />
+        <BlogPosts />
       </div>
     </section>
   )
