@@ -1,4 +1,4 @@
-import { researchtexts } from 'app/components/posts'
+import { researchtexts } from 'app/components/posts' 
 
 export default function Page() {
   return (
